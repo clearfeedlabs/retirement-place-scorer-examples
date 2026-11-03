@@ -1,0 +1,10 @@
+{
+  "states": [
+    "FL",
+    "NC",
+    "SC",
+    "TN",
+    "AZ"
+  ],
+  "maxItems": 25
+}

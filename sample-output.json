@@ -1,0 +1,49 @@
+{
+  "rank": 1,
+  "rowType": "county",
+  "fips": "36003",
+  "county": "Allegany County",
+  "state": "NY",
+  "score": 79.3,
+  "dataCoverage": 1,
+  "factorScores": {
+    "homeAffordability": 92,
+    "rentAffordability": 74.3,
+    "warmWinters": 20.9,
+    "mildSummers": 92.8,
+    "lowRainfall": 53.4,
+    "hospitalQuality": 78.9,
+    "hospitalAccess": 66.3,
+    "broadband": 48.5
+  },
+  "population": 47159,
+  "medianHomeValue": 101700,
+  "medianGrossRent": 763,
+  "medianHouseholdIncome": 62869,
+  "broadbandPct": 86.7,
+  "janAvgLowF": 14.6,
+  "julAvgHighF": 79.6,
+  "annualPrecipIn": 40.6,
+  "hospitalCount": 2,
+  "avgHospitalStars": 4,
+  "hospitalsWithEmergency": 1,
+  "latitude": 42.247853,
+  "longitude": -78.026153,
+  "landSqMi": 1029.507,
+  "weightsUsed": {
+    "homeAffordability": 25,
+    "rentAffordability": 10,
+    "warmWinters": 5,
+    "mildSummers": 35,
+    "lowRainfall": 0,
+    "hospitalQuality": 20,
+    "hospitalAccess": 10,
+    "broadband": 10
+  },
+  "sources": {
+    "census": "ACS 2024 5-year + 2024 Gazetteer",
+    "climate": "NOAA NCEI nClimDiv county normals 1996-2025",
+    "hospitals": "CMS Care Compare Hospital General Information"
+  },
+  "scoredAt": "2026-11-03T20:11:36.983Z"
+}
